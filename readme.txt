@@ -4,3 +4,4 @@ append a comment
 append my comment
 i love git
 dev branch test
+creating a new branch is quich and simple
